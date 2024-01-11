@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1063441250896",
+    "firebase_url": "https://comsats-bizz-buzz-default-rtdb.firebaseio.com",
+    "project_id": "comsats-bizz-buzz",
+    "storage_bucket": "comsats-bizz-buzz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063441250896:android:eabc9b6219c07d60f42f55",
+        "android_client_info": {
+          "package_name": "com.example.cbb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6kMtsRzh66oYYgSTnatgQ1fj-VpGLG34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063441250896:android:790500ab5f720bcdf42f55",
+        "android_client_info": {
+          "package_name": "com.example.comsats_admin_bizz_buzz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6kMtsRzh66oYYgSTnatgQ1fj-VpGLG34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063441250896:android:6027a6488b310b60f42f55",
+        "android_client_info": {
+          "package_name": "com.example.comsats_bizz_buzz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6kMtsRzh66oYYgSTnatgQ1fj-VpGLG34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
