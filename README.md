@@ -1,6 +1,6 @@
 # cbb
 
-A new Flutter project.
+ios file added it will work smooth on ios and android 
 
 ## Getting Started
 
